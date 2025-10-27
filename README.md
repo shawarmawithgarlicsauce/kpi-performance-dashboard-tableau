@@ -16,9 +16,6 @@ This dashboard solves that problem by consolidating key performance indicators (
 
 The dashboard can be accessed via this link: https://public.tableau.com/views/KPIPerformanceDashboard_17615742068890/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-<img width="1919" height="1044" alt="image" src="https://github.com/user-attachments/assets/a7f991ff-116d-40cc-a43e-0f51de10d2f2" />
-
-
 Thank you!
 
 LinkedIn: https://www.linkedin.com/in/adibthaqify/
