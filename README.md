@@ -1,4 +1,5 @@
 <img width="1919" height="1044" alt="image" src="https://github.com/user-attachments/assets/fad8ea2a-26b7-4fbe-8b32-2b8cdabc9352" />
+
 An Interactive KPI Dashboard created on Tableau. 
 
 Hello! I created this dashboard to showcase my skills in creating a visually appealing dashboard on Tableau. 
